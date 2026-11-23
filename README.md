@@ -4,9 +4,9 @@ Modelo de tres estados construido desde drivers operativos (flota, kilómetros,
 utilización, costo por km, ciclo de reposición), con circularidad entre
 intereses, deuda y caja.
 
-**Empresa:** Mobico Group plc, con ALSA como motor operativo.
-**Perímetro:** solo operaciones continuadas, con la serie histórica pro forma.
-**Herramienta:** Excel. Cada módulo se documenta en `docs/`.
+- **Empresa:** Mobico Group plc, con ALSA como motor operativo.
+- **Perímetro:** solo operaciones continuadas, con la serie histórica pro forma.
+- **Herramienta:** Excel. Cada módulo se documenta en `docs/`.
 
 ## Estado de los módulos
 
@@ -27,3 +27,5 @@ intereses, deuda y caja.
 ## Fuentes
 
 - Mobico Group, Annual Report, periodo de 15 meses terminado el 31-mar-2026: [enlace]
+
+Hecho posterior: oferta recomendada de AdL (oct-2026), con cierre previsto en 2027. El modelo refleja la estructura de capital vigente a mar-2026 y no incorpora la transacción
